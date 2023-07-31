@@ -23,8 +23,4 @@ function Home() {
   );
 }
 
-function test2() {
-  console.log("identacao errada");
-}
-
 export default Home;
